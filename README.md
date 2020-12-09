@@ -7,4 +7,14 @@ Es un programa que genera un archivo denominano "archivo.html" donde se guarda e
   - Daniel Ricardo Quintero Moya
   
 # Requisitos
+
+El programa necesita las siguientes librerías : io, bs4, urlopen, random. Ejecutar los siguientes comandos para instalar las librerías:
+  - from bs4 import BeautifulSoup
+  - import io
+  - from urllib.request import urlopen
+  - import random
+  
+Librerias externas
   - bs4: pip install bs4 == 0.0.1
+  
+Los archivos se generan en la carpeta "archivos_quizmaker". Ejecutar el que se llama "webscrapping.py"
