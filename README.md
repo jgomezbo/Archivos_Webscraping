@@ -16,5 +16,8 @@ El programa necesita las siguientes librerías : io, bs4, urlopen, random. Ejecu
   
 Librerias externas
   - bs4: pip install bs4 == 0.0.1
+
+Ejecutar:
+  - pip install -r requirements.txt
   
 Los archivos se generan en la carpeta "archivos_quizmaker". Ejecutar el que se llama "webscrapping.py"
