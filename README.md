@@ -21,3 +21,8 @@ Ejecutar:
   - pip install -r requirements.txt
   
 Los archivos se generan en la carpeta "archivos_quizmaker". Ejecutar el que se llama "webscrapping.py"
+
+# Muestra
+Archivo con información en limpio para usar en "QuizMaker"
+
+  ![alt tag](https://github.com/jgomezbo/Archivos_Webscraping/blob/main/imagenes/informacion%20en%20limpio.png)
